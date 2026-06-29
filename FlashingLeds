@@ -1,0 +1,17 @@
+/**
+ * @file: FlashingLeds.c
+ * @author: Jacob Nunez
+ * @date: 06/28/26
+ * 
+ */
+
+
+#include <gpiod.h>
+#include <stdio.h>
+#include <unistd.h>   // for sleep() / usleep()
+
+null main(void){
+    
+
+    return 
+}
